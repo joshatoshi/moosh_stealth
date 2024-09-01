@@ -1,0 +1,5 @@
+spacing = ' ' * 5  # Between images.
+cards = one, two
+
+for pieces in zip(*(card.splitlines() for card in cards)):
+    print(spacing.join(pieces))
