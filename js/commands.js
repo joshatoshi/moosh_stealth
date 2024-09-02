@@ -19,9 +19,9 @@ whois = [
 
 social = [
   "<br>",
-  'twitter/X      <a href="' + twitter + '" target="_blank">twitter/JoshCowellX' + '</a>',
-  'linkedin       <a href="' + linkedin + '" target="_blank">linkedin/jcowell' + "</a>",
-  'github         <a href="' + github + '" target="_blank">github/joshatoshi' + "</a>",
+  'twitter/X ::click me:: --->     <a href="' + twitter  + '" target="_blank">twitter/JoshCowellX' + '</a>',
+  'linkedin  ::click me:: --->     <a href="' + linkedin + '" target="_blank">linkedin/jcowell' + "</a>",
+  'github    ::click me:: --->     <a href="' + github + '" target="_blank">github/joshatoshi' + "</a>",
   "<br>"
 ];
 
